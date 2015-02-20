@@ -13,7 +13,7 @@ This will be some kind of blog or place for my notes and thoughts
 ## 04. Starting a repo: 
 …or create a new repository on the command line
 
-echo # <repo_name> >> README.md
+echo # [repo_name] >> README.md
 
 git init
 
@@ -21,12 +21,12 @@ git add README.md
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/speedyGonzales/<repo_name>
+git remote add origin https://github.com/speedyGonzales/[repo_name]
 
 git push -u origin master
 
 …or push an existing repository from the command line
 
-git remote add origin https://github.com/speedyGonzales/<repo_name>
+git remote add origin https://github.com/speedyGonzales/[repo_name]
 
 git push -u origin master
