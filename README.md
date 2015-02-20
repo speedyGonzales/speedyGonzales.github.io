@@ -11,7 +11,7 @@ This will be some kind of blog or place for my notes and thoughts
 [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## 04. Starting a repo: 
-…or create a new repository on the command line
+<b>…or create a new repository on the command line</b>
 
 echo # [repo_name] >> README.md
 
@@ -25,7 +25,7 @@ git remote add origin https://github.com/speedyGonzales/[repo_name]
 
 git push -u origin master
 
-…or push an existing repository from the command line
+<b>…or push an existing repository from the command line</b>
 
 git remote add origin https://github.com/speedyGonzales/[repo_name]
 
